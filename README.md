@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaimefph
-- 👀 I’m interested in business, tech, finance and data
+- 👀 I’m interested in business, sales, tech, finance and data
 - 🌱 I’m currently learning Python, R and PBI
 - 💞️ I’m looking to collaborate on business cases and data
 - 📫 How to reach me: jaime.fph1@gmail.com / +56958737722 (CL)
